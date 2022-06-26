@@ -1,3 +1,4 @@
+<div align=center>
 :wave: Hi! I'm Nayeem Hasan. 
 
 ![](https://komarev.com/ghpvc/?username=NayeemH&color=blueviolet&style=flat-square)
@@ -20,3 +21,7 @@ Dedicated to optimisation, experienced DevOps Engineer understands the melding o
 ![Nayeem Hasan's github stats](https://github-readme-stats.vercel.app/api?username=NayeemH&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+
+![NayeemH github streak](https://github-readme-streak-stats.herokuapp.com/?user=NayeemH&theme=radical&include_all_commits=true&count_private=true)
+
+</div>
