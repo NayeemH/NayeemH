@@ -6,7 +6,7 @@ Dedicated to optimisation, experienced DevOps Engineer understands the melding o
 
 🌱 I'm currently working as a DevOps Engineer:
 
-:rocket: I'm using these tools:
+<!-- :rocket: I'm using these tools: -->
 
 <!-- &ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)&ensp;![Docker](https://img.shields.io/badge/-Docker-384D54?style=flat-square&logo=Docker)&ensp;![Webpack](https://img.shields.io/badge/-Webpack-1C78C0?style=flat-square&logo=Webpack)&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 
