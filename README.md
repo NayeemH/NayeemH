@@ -19,9 +19,7 @@ Dedicated to optimisation, experienced DevOps Engineer understands the melding o
 :bar_chart: Nayeem's GitHub stats
 
 ![Nayeem Hasan's github stats](https://github-readme-stats.vercel.app/api?username=NayeemH&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&theme=radical)
-
 ![NayeemH github streak](https://github-readme-streak-stats.herokuapp.com/?user=NayeemH&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&theme=radical)
 
 </div>
