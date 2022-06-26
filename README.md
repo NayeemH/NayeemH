@@ -15,7 +15,7 @@ Dedicated to optimisation, experienced DevOps Engineer understands the melding o
 &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:regx1385@gmail.com)&ensp;[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logoColor=FFFFFF)](https://nextjs-blog.regchiu.vercel.app/)
  -->
 
-:bar_chart: GitHub stats
+:bar_chart: Nayeem's GitHub stats
 
 ![Nayeem Hasan's github stats](https://github-readme-stats.vercel.app/api?username=NayeemH&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 
